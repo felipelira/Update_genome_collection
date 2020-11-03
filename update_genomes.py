@@ -28,7 +28,6 @@ def replace(str):
 			str = str.replace(x, "_")
 	return str
 
-
 # Checks if the URL requested exists
 def url_exists(path):
 	r = requests.head(path)
