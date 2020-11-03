@@ -1,7 +1,7 @@
 #! /usr/bin/python
 
 import os, urllib.request, requests
-from ø import date
+from datetime import date
 from multiprocessing.pool import ThreadPool
 import sys
 
