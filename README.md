@@ -7,13 +7,13 @@ To run it in your computer, download the files 'update_genomes.py' and 'taxons.t
 
 The file 'taxon.txt' can be modified including or removing names according to the user's needs.
 
-Running the command-line version:
+## Running the command-line version:
 
 Open a console and go through the repository where you have both files.
 
 	$ python update_genomes.py
 
-Running update_genomes.exe version:
+## Running update_genomes.exe version:
 
 Place the files 'update_genomes.exe' and 'taxons.txt' in the same directory and go into it.
 
