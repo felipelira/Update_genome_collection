@@ -1,0 +1,4 @@
+Superkingdom  Kingdom	Phylum	Class	Order	Family	Genus	Species
+Bacteria	n.a.	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	*
+Bacteria	n.a.	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	carnosus
+Bacteria	n.a.	Firmicutes	Bacilli	Bacillales	Streptococcaceae	Streptococcus	sp.
